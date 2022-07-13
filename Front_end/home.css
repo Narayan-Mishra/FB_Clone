@@ -88,6 +88,18 @@ body{
     text-align: center;
 }
 
+.welcome{
+    text-align: center;
+}
+
+#Message{
+    color: red;
+}
+
+#Message2{
+    color: red;
+}
+
 .forgotten-password > a{
     font-weight: 600;
     font-size: 14px;
